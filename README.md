@@ -176,4 +176,4 @@ test_interval_domain.py     # Comprehensive validation suite
 
 ## License
 
-MIT License (or specify accordingly)
+Apache 2.0 License
